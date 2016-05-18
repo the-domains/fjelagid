@@ -1,0 +1,28 @@
+name: Fjelagid
+favicon: null
+layout_spectrum: 0.09495486132800579
+typography_spectrum: 0.8614635134581476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9731407307554036
+  lightness: 0.7577766813337803
+  saturation: 0.8017569782678038
+  rhythmicContrast: 0.6267118840478361
+purpose: []
