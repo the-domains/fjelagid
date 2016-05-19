@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Fjelagid]]></title>
-        <description><![CDATA[Fjelagid]]></description>
+        <title><![CDATA[Fjelagið - Stafræn almannatengsl]]></title>
+        <description><![CDATA[Fjelagið - Stafræn almannatengsl]]></description>
         <link>https://thegrid.ai/fjelagid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 07:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 07:25:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fjelagid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Þjónusta]]></title>
+            <description><![CDATA[<article><h1>Þjónusta</h1><p>Við bjóðum upp á þjónustu hannaða með þig í fyrirrúmi. </p></article>]]></description>
+            <link>https://thegrid.ai/fjelagid/thjonusta/index.html</link>
+            <guid isPermaLink="false">50bfcfc3-7d46-460b-97d3-a49f07709f91</guid>
+            <pubDate>Thu, 19 May 2016 07:25:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fjelagið stofnað]]></title>
             <description><![CDATA[<article><h1>Fjelagið stofnað</h1><p>Við stundum stafræn almannatengsl. Við notumst við sérhönnuð forrit til þess að safna gögnum yfir þarfir fyrirtækja. Við notum gögnin til þess að setja saman skilaboð fyrir þinn markhóp og komum þeim á framfæri á faglegan hátt. Allt saman í háskerpu. Hafðu samband. </p></article>]]></description>
